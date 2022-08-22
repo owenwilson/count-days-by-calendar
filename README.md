@@ -12,7 +12,4 @@
 
 - [owenwilson](https://github.com/owenwilson)
 
-## Donation
-
-- If you liked this example !
-- [voluntary donations! devfrustrado](https://www.paypal.com/paypalme/devfrustrado)
+## Thanks!
